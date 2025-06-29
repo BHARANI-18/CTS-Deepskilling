@@ -9,7 +9,6 @@
   <version>0.0.1-SNAPSHOT</version>
 
   <dependencies>
-    <!-- JUnit 4 dependency -->
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
